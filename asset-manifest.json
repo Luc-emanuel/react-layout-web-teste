@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-layout-web-teste/static/css/main.60202ada.css",
+    "main.js": "/react-layout-web-teste/static/js/main.13fb73a4.js",
+    "index.html": "/react-layout-web-teste/index.html",
+    "main.60202ada.css.map": "/react-layout-web-teste/static/css/main.60202ada.css.map",
+    "main.13fb73a4.js.map": "/react-layout-web-teste/static/js/main.13fb73a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60202ada.css",
+    "static/js/main.13fb73a4.js"
+  ]
+}
